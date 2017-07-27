@@ -1,15 +1,9 @@
-Saving Data in SQL Databases
+REQUEST PERMISSIONS
 
-Basic CRUD operations in Android Studio
+We have three different permission request programs encoded in android studio.
 
-1. Define a Schema and Contract
+'Permission' project: The text entered in the message section will be sent as sms to the specified phone number.
 
-2. Create a Database Using a SQL Helper
+'Permission2' project: Go to the camera application by clicking on the Open Camera button. See the photo you took on the application screen. At the same time the gallery also records the photo.
 
-3. Put Information into a Database
-
-4. Read Information from a Database
-
-5. Delete Information from a Database
-
-6. Update a Database
+'Permission3' project: Click on the View position button to display the coordinates of the position you are on.
